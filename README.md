@@ -1,14 +1,15 @@
-<h2 align="center">Current Reading 📚</h2>
+<div align="">
+  <h3>
+    📚 Current Reading 
+  </h3>
+</div>
 
-<p align="center">
-  <img src="https://github.com/GuiBublitz/StudyTracker/assets/60118323/63d090a7-c781-4222-a451-f9c81b4c9999" alt="Current Reading" width="50%">
-</p>
 
-<p align="center">
-  <a href="https://github.com/GuiBublitz/StudyTracker">
-    <img src="https://img.shields.io/github/stars/GuiBublitz/StudyTracker?style=social" alt="GitHub stars">
-  </a>
+<p align="">
+  <img src="https://github.com/GuiBublitz/StudyTracker/assets/60118323/63d090a7-c781-4222-a451-f9c81b4c9999" alt="Current Reading" width="30%">
 </p>
+<img src="https://img.shields.io/github/stars/GuiBublitz/StudyTracker?style=social" alt="GitHub stars" style="vertical-align: middle;">
+
 <!--
 <p align="center">
   <a href="YOUR_LINK_HERE">
