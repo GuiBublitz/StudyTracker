@@ -1,6 +1,6 @@
 <div align="">
   <h3>
-    📚 Current Reading 
+    Current Reading 
   </h3>
 </div>
 
